@@ -1,2 +1,3 @@
 # HoloX
-I made a website to show beautiful places in California!
+
+You can explore California using this website!
