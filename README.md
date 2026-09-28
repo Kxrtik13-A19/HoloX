@@ -1,6 +1,7 @@
 # HoloX
 
 **description**
+<br>
 built by Kartik (a hardware engineer) just to flex how beautiful California is rn.
 
 **features**
