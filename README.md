@@ -1,8 +1,6 @@
 # HoloX
 
-**description**
-<br>
-built by Kartik (a hardware engineer) just to flex how beautiful California is rn.
+built just to flex how beautiful California is rn.
 
 **features**
 *   sick photo gallery of spots like Big Sur and SF.
